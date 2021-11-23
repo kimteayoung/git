@@ -1,0 +1,31 @@
+git init
+
+git config --global user.name 'kimteayoung'
+
+git config --global user.email 'akdlfh123@naver.com'
+
+git config --global --list
+
+github 주소
+
+git config --local --list
+
+git status
+
+<수정혹은 업데이트할때>
+
+git add .
+
+git commit -m '깃허브 메모'
+
+git branch -M main 
+
+git push -u origin main
+
+<가져오기>
+
+git clone 깃주소
+
+<지울때>
+샛팅 들어가서 맨밑에 딜리트 누르고 
+닉네임/파일이름 적어주고 끝
