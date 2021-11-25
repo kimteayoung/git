@@ -16,7 +16,7 @@ git status
 
 git add .
 
-git commit -m '포트폴리오 - 사이트만듬'
+git commit -m 'spring 수업'
 
 git branch -M main
 
